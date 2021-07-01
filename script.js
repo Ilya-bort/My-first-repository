@@ -4,7 +4,7 @@ function func (name) {
     }
 }
 
-const f = func("Ilya")
-console.log(f("Dirin"))
+const f = func("Kira")
+console.log(f("Dirina"))
 
 
